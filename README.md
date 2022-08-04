@@ -4,6 +4,8 @@
 
 [Link to Dashboard](https://public.tableau.com/app/profile/isaac.jorgensen/viz/CitibikeAnalysis_16595772465150/NYCCitibikeStory?publish=yes)
 
+*NOTE:* The .csv file that was adjusted in the Pandas dataframe is too large to include in github, so I've elected to exclude it but include the Jupyter Notebook where the data transformation took place.
+
 The client, Kate, wants to open a similar bikeriding service like NYC's Citibike to Des Moines, Iowa. Part of the reason she believes in this idea is because of the positive impact Citibike had on her experiences taking a trip to NYC earlier. Kate has secured a meeting with some investors and wants to present an analysis of the NYC data to prove it's worth the risk. 
 
 ## Results
